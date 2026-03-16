@@ -1,9 +1,3 @@
-சரி 👍
-இது **GitHub README.md** ready-to-use version.
-நீ **copy paste pannitu GitHub repo la podalaam**.
-Company-level project feel வரும் ✨
-
----
 
 # README.md
 
